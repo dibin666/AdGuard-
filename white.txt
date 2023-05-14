@@ -1,0 +1,32 @@
+!Title: white
+!Version: 1
+!Homepage: https://github.com/dibin666/AdGuard-
+!!!This list only applies to "AdGuard Home".
+
+@@||kgithub.com^
+@@||52pt.site^
+@@||announce.haidan.video^
+@@||announce.leaguehd.com^
+@@||daydream.dmhy.best^
+@@||hdfans.org^
+@@||jpopsuki.eu^
+@@||localhost.stackoverflow.tech^
+@@||monikadesign.uk^
+@@||pt.btschool.club^
+@@||pt.eastgame.org^
+@@||pt.skyey.win^
+@@||ptsbao.club^
+@@||routing.bgp.technology^
+@@||ssl.empirehost.me^
+@@||t.hdhome.org^
+@@||tracker.azusa.wiki^
+@@||tracker.dicmusic.club^
+@@||tracker.exoticaz.to^
+@@||tracker.open.cd^
+@@||tracker.totheglory.im^
+@@||tracker-campus.tjupt.org^
+@@||tracker-public.tjupt.org^
+@@||ultrahd.net^
+@@||www.hdarea.co^
+@@||www.hddolby.com^
+@@||www.pttime.org^
